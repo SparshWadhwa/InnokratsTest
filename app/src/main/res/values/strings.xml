@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InnokratsTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longText">A Long Text \n A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n
+        A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n
+        A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n
+        A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n
+        A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n
+        A Long Text \nA Long Text \nA Long Text \nA Long Text \nA Long Text \n 22222222222222
+
+    </string>
+</resources>
